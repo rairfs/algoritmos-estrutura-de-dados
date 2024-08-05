@@ -1,2 +1,2 @@
 # Algoritmos e Estrutura de Dados
-Repositório utilizado para estudar algorithm e estrutura de dados
+Repositório utilizado para estudar algoritmos e estrutura de dados
